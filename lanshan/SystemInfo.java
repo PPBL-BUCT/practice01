@@ -18,9 +18,11 @@ public class SystemInfo {
 			FileWriter fileWritter = new FileWriter(file);
 			PrintWriter out = new PrintWriter(fileWritter);
 			System.getProperties().list(out);
+			System.out.println(System.getProperties());
+			fileWritter.close();
+			out.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
 	}
 }
