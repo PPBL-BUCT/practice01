@@ -1,0 +1,70 @@
+{\rtf1\ansi\ansicpg936\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 -- listing properties --\
+gopherProxySet=false\
+awt.toolkit=sun.lwawt.macosx.LWCToolkit\
+java.specification.version=11\
+sun.cpu.isalist=\
+sun.jnu.encoding=UTF-8\
+java.class.path=\
+java.vm.vendor=Oracle Corporation\
+sun.arch.data.model=64\
+java.vendor.url=http://java.oracle.com/\
+user.timezone=\
+os.name=Mac OS X\
+java.vm.specification.version=11\
+sun.java.launcher=SUN_STANDARD\
+user.country=CN\
+sun.boot.library.path=/Library/Java/JavaVirtualMachines/jdk...\
+sun.java.command=test/test.Hello\
+http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16\
+jdk.debug=release\
+sun.cpu.endian=little\
+user.home=/Users/jiafan\
+user.language=zh\
+java.specification.vendor=Oracle Corporation\
+jdk.module.path=/Users/jiafan/eclipse-workspace/test/bin\
+java.version.date=2018-10-16\
+java.home=/Library/Java/JavaVirtualMachines/jdk...\
+file.separator=/\
+java.vm.compressedOopsMode=Zero based\
+line.separator=\
+\
+java.specification.name=Java Platform API Specification\
+java.vm.specification.vendor=Oracle Corporation\
+java.awt.graphicsenv=sun.awt.CGraphicsEnvironment\
+jdk.module.main.class=test.Hello\
+jdk.module.main=test\
+user.script=Hans\
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers\
+ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16\
+java.runtime.version=11.0.1+13-LTS\
+user.name=jiafan\
+path.separator=:\
+os.version=10.14.2\
+java.runtime.name=Java(TM) SE Runtime Environment\
+file.encoding=UTF-8\
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM\
+java.vendor.version=18.9\
+java.vendor.url.bug=http://bugreport.java.com/bugreport/\
+java.io.tmpdir=/var/folders/rx/40nyxshs29d3xw6qzx6t_...\
+java.version=11.0.1\
+user.dir=/Users/jiafan/eclipse-workspace/test\
+os.arch=x86_64\
+java.vm.specification.name=Java Virtual Machine Specification\
+java.awt.printerjob=sun.lwawt.macosx.CPrinterJob\
+sun.os.patch.level=unknown\
+java.library.path=/Users/jiafan/Library/Java/Extensions...\
+java.vendor=Oracle Corporation\
+java.vm.info=mixed mode\
+java.vm.version=11.0.1+13-LTS\
+sun.io.unicode.encoding=UnicodeBig\
+java.class.version=55.0\
+socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16\
+}
