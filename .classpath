@@ -5,5 +5,6 @@
 	<classpathentry kind="src" path="lanshan"/>
 	<classpathentry kind="src" path="lixiaoming"/>
 	<classpathentry kind="src" path="xuqi"/>
+	<classpathentry kind="src" path="liutao"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
