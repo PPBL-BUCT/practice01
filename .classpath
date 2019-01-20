@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="lidacheng"/>
 	<classpathentry kind="src" path="qinbo"/>
 	<classpathentry kind="src" path="lianyuechuan"/>
+	<classpathentry kind="src" path="guozixuan"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
